@@ -62,4 +62,4 @@ Once your module is installed in OpenEMR custom_modules folder you can activate 
   6. Finally click the *Enable* button for your module.
 
 ## Contributing
-If you would like to help in improving the skeleton library just post an issue on Github or send a pull request.
+If you would like to help in improving the skeleton library just post an issue on Github or send a pull request.# README
